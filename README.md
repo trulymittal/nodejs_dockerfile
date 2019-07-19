@@ -4,7 +4,7 @@ Almost a complete Dockerfile required to make your Nodejs web app run inside a D
 
 The Dockerfile:
 
-```
+```dockerfile
 # we will use the latest version of node available from the Docker Hub.
 FROM node:latest
 
