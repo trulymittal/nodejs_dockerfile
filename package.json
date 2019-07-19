@@ -1,0 +1,14 @@
+{
+  "name": "nodedockerweb",
+  "version": "1.0.0",
+  "description": "nodejs wweb app inside a docker container",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "truly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
